@@ -1,5 +1,7 @@
 # Property-Price-Prediction-ML
 
+made in 2022
+
 Filtering the columns did help in only those columns who had the same value in all rows such as Mosque_2000
 Floors Played the most major role in value prediction.
 Rounding off all the floor and count values that shout have been whole numbers helped increase the prediction
